@@ -1,0 +1,213 @@
+[
+    {
+        "educationalBackground" : [
+            {
+                "school" : "National Chung Hsing University",
+                "department" : "Bachelor's degree in Department of Computer Science and Engineering",
+                "time" : "Sep. 2025 ~ Present"
+            },
+            {
+                "school" : "National Hemei Experimental School",
+                "department" : "High School",
+                "time" : "Sep. 2022 ~ Jun. 2025"
+            }
+        ]
+    },
+    {
+        "workExperience" : [
+            {
+                "company" : "國家資通安全研究院",
+                "department" : "行政院網路攻防演練攻擊手",
+                "time" : "Apr. 2025 ~ Present"
+            },
+            {
+                "company" : "",
+                "department" : "Freelance",
+                "time" : "Present"
+            }
+        ]
+    },
+    {
+        "professionalRoles" : [
+            {
+                "team" : "OhYeahSec",
+                "role" : "Leader and Founder",
+                "time" : "Feb. 2025 ~ Present"
+            },
+            {
+                "team" : "B33F 50UP / NCKUCTF",
+                "role" : "Member",
+                "time" : "Apr. 2024 ~ Present"
+            },
+            {
+                "team" : "Student Club's Association of Information in Central Taiwan",
+                "role" : "President",
+                "time" : "Sep. 2023 ~ Sep. 2024"
+            },
+            {
+                "team" : "Student Club's Association of Information in Central Taiwan",
+                "role" : "IT Group",
+                "time" : "Sep. 2022 ~ Sep. 2023"
+            }
+            
+        ]
+    },
+    {
+        "specializedTraining" : [
+            {
+                "course" : "TAIWANHolyHigh",
+                "team" : "高階培訓學員",
+                "time" : "Sep. 2023 ~ Present"
+            },
+            {
+                "course" : "AIS3",
+                "team" : "進階資安攻防競技",
+                "time" : "Jul. 29, 2024 ~ Aug. 4, 2024"
+            },
+            {
+                "course" : "AIS3",
+                "team" : "軟體安全",
+                "time" : "Jul. 24, 2023 ~ Jul. 30, 2023"
+            },
+            {
+                "course" : "CyberSecurity Summer Camp",
+                "team" : "",
+                "time" : "Jul. 18, 2023 ~ Jul. 19, 2023"
+            },
+            {
+                "course" : "AIS3 Junior",
+                "team" : "",
+                "time" : "Aug. 23, 2022 ~ Aug. 25, 2022"
+            }
+        ]
+    },
+    {
+        "competitiveAchievements" : [
+            {
+                "competitive" : "AIS3 EOF",
+                "reward" : "潛力獎",
+                "time" : "2025"
+            },
+            {
+                "competitive" : "AIS3",
+                "reward" : "最佳專題",
+                "time" : "2024"
+            },
+            {
+                "competitive" : "AIS3 Junior",
+                "reward" : "最佳專題",
+                "time" : "2024"
+            }
+        ]
+    },
+    {
+        "specializedCertificates" : [
+            {
+                "certificate" : "iPAS 資訊安全工程師",
+                "level" : "中級",
+                "time" : ""
+            },
+            {
+                "certificate" : "TQC 資訊科技 (Python)",
+                "level" : "專業級",
+                "time" : ""
+            },
+            {
+                "certificate" : "TQC 雲端技術及網路服務",
+                "level" : "進階級",
+                "time" : ""
+            }
+        ]
+    },
+    {
+        "lecturingExperience" : [
+            {
+                "course" : "嘉義高中資訊研究社",
+                "role" : "Web Security Lecturer",
+                "time" : "Mar. 2025 ~ Apr. 2025"
+            },
+            {
+                "course" : "SITCON HoC",
+                "role" : "Teaching Assistant",
+                "time" : "Dec. 17, 2023"
+            },
+            {
+                "course" : "AIS3 Junior",
+                "role" : "Teaching Assistant",
+                "time" : "Aug. 15, 2023 ~ Aug. 18, 2023"
+            },
+            {
+                "course" : "SCAICT 幹部訓練",
+                "role" : "Web Security Lecturer",
+                "time" : "Jul. 1, 2023 ~ Jul. 2, 2023"
+            },
+            {
+                "course" : "SCAICT Winter Camp",
+                "role" : "Teaching Assistant",
+                "time" : "Feb. 1, 2023 ~ Feb. 3, 2023"
+            }
+        ]
+    },
+    {
+        "publicSpeakingExperience" : [
+            {
+                "subject" : "社群經驗與營運分享",
+                "loc" : "AIS3 Club",
+                "time" : "Aug. 21, 2024"
+            }
+        ]
+    },
+    {
+        "communityContribution" : [
+            {
+                "activity" : "SCAICT Winter Camp",
+                "role" : "總召",
+                "time" : "Jan. 22, 2024 ~ Jan. 24, 2024"
+            },
+            {
+                "activity" : "SITCON",
+                "role" : "記錄組",
+                "time" : "Mar. 8, 2025"
+            },
+            {
+                "activity" : "SITCON",
+                "role" : "場務組",
+                "time" : "Mar. 9, 2024"
+            }
+        ]
+    },
+    {
+        "otherExperience" : [
+            {
+                "activity" : "Taiwan Network Operators Group",
+                "role" : "Attended",
+                "time" : "2025"
+            },
+            {
+                "activity" : "Taiwan CyberSEC",
+                "role" : "Attended",
+                "time" : "2025"
+            },
+            {
+                "activity" : "Devcore Conference",
+                "role" : "Attended",
+                "time" : "2025"
+            },
+            {
+                "activity" : "HITCON CMT",
+                "role" : "Attended",
+                "time" : "2024"
+            },
+            {
+                "activity" : "HITCON CMT",
+                "role" : "Attended",
+                "time" : "2023"
+            },
+            {
+                "activity" : "Taiwan CyberSEC",
+                "role" : "Attended",
+                "time" : "2023"
+            }
+        ]
+    }
+]

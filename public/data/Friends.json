@@ -1,0 +1,32 @@
+[
+    {
+        "name": "OsGa",
+        "description": "社群活躍者",
+        "img": "/assets/osga.png",
+        "website": "https://www.osga.dev/"
+    },
+    {
+        "name": "soar.",
+        "description": "清大教 soar",
+        "img": "/assets/soar..png",
+        "website": "https://tusoar.tech/"
+    },
+    {
+        "name": "此情吳計可消除",
+        "description": "立志成為漁夫的資安咖",
+        "img": "/assets/yih0118.png",
+        "website": "https://yih-0118.github.io/"
+    },
+    {
+        "name": "dkri3c1",
+        "description": "資安最強高職生",
+        "img": "/assets/dkri3c1.png",
+        "website": "https://dkri3c1.github.io/"
+    },
+    {
+        "name": "毛哥 EM",
+        "description": "前端網頁大師",
+        "img": "/assets/EM.png",
+        "website": "https://emtech.cc/"
+    }
+]

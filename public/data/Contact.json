@@ -1,0 +1,20 @@
+[
+    {
+        "platform" : "Email",
+        "account" : "me@chaontc.tw",
+        "link" : "mailto:me@chaontc.tw",
+        "img" : "/assets/mail.png"
+    },
+    {
+        "platform" : "Github",
+        "account" : "Charlie28661",
+        "link" : "https://github.com/Charlie28661",
+        "img" : "/assets/github.png"
+    },
+    {
+        "platform" : "Instagram",
+        "account" : "chao28661",
+        "link" : "https://www.instagram.com/chao28661/",
+        "img" : "/assets/instagram.png"
+    }
+]
