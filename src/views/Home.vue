@@ -31,12 +31,17 @@ onMounted(async () => {
                 </div>
             </div>
         </div>
+        <div>
+
+        </div>
+
+
         <!-- <div class="latestPost">
             <div class="secWord">Latest Post</div>
         </div> -->
-        <div class="featuredProjects">
+        <!-- <div class="featuredProjects">
             <div class="secWord">Featured Projects</div>
-            
+
             <div class="grid-container">
                     <div v-for="project in Project" :key="project.title" class="card">
                     <div class="image-container">
@@ -52,7 +57,7 @@ onMounted(async () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div>
             <div></div>
@@ -81,11 +86,6 @@ onMounted(async () => {
     .hiWord{
         font-weight: bold;
         font-size: xx-large;
-    }
-
-    .secWord{
-        font-weight: bold;
-        font-size: x-large;
     }
 
     .description{
@@ -210,5 +210,32 @@ onMounted(async () => {
     .demo-btn:hover {
         background-color: white;
         color: black;
+    }
+
+    @media (max-width: 768px) {
+
+        .container{
+            width: 90%;
+        }
+
+        .myPhoto{
+            height: 60px;
+            width: 60px;
+            margin-top: -110px;
+        }
+        
+        .hiWord{
+            font-size: x-large;
+        }
+
+        .description{
+            
+        }
+
+        .button-group {
+            margin-top: 1rem;
+            display: flex;
+            gap: 1rem;
+        }
     }
 </style>
